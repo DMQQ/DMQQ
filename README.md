@@ -25,4 +25,9 @@
   * bcrypt 
   * jsonwebtoken
   * typescript
+  
+* CSS
+  * scss
+
+### Contact me [here](https://www.facebook.com/profile.php?id=100005396509086)
 
