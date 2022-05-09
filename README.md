@@ -1,33 +1,13 @@
-# Hi, I'm Damian
+# **Hello, I'm Damian**
 
-## technologies i use
+I'm 18 years old technical school student, interested in softwere development, especially in 🌐web and 📱mobile dev.
 
-* React
-  * Styled-components
-  * framer-motion
-  * axios
-  * redux toolkit
-  * react-router
-  * typescript
-  
-* React-native
-  * expo
-  * basics reanimated
-  * animated
-  * navigation
-  * typescript
-  
-* NodeJS
-  * express
-  * nestjs
-  * typeorm
-  * mysql
-  * bcrypt 
-  * jsonwebtoken
-  * typescript
-  
-* CSS
-  * scss
+### **Tech stack**
 
-### Contact me [here](https://www.facebook.com/profile.php?id=100005396509086)
-
+- **React & NextJS**
+- **React Native**
+- **Typescript**
+- **Javascript**
+- **MySQL**
+- **HTML5 & CSS3**
+- **NodeJS & NestJS**
