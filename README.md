@@ -11,3 +11,7 @@ I'm 18 years old technical school student, interested in softwere development, e
 - **MySQL**
 - **HTML5 & CSS3**
 - **NodeJS & NestJS**
+
+### **Top projects**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMQQ&count_private=true)
